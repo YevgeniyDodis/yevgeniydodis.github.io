@@ -1,23 +1,34 @@
-![Enrico Profile Picture](image001.jpg)
 
-[Curriculum Vitae](Bertini_Enrico_CV.pdf)
 
-[Research Statement](Bertini_Research_Statement.pdf)
+[Curriculum Vitae](CV_Dodis.pdf)
 
-[Teaching Statement](Bertini_Teaching_Statement.pdf)
+[Research Statement](RS_Dodis.pdf)
 
-[Service Statement](Bertini_Service_Statement.pdf)
+[Teaching Statement](TS_Dodis.pdf)
 
-[Diversity Statement](Bertini_Diversity_Statement.pdf)
+[Service Statement](SS_Dodis.pdf)
+
+[Diversity Statement](DS_Dodis.pdf)
 
 ## Bio
-Enrico Bertini works on data visualization interfaces as a way to help people make sense of the world through data. In recent years, his work focused on the use of visual interfaces to explore, validate and understand machine learning models and systems. His research also aims at advancing the theoretical and empirical understanding of how people extract information and meaning from visual representations of data. He is the co-host of the popular Data Stories podcast, a podcast on “the role data play in our lives”.
 
-He earned a PhD degree in Computer Engineering from University of Rome La Sapienza, in his hometown in Rome in 2006. Between 2006-2012 he has been a research scientist at the University of Fribourg, Switzerland and at the University of Konstanz, Germany. In 2012 he joined the NYU School of Engineering as and Assistant Professor where he has been  promoted to the rank of Associate Professor in 2018. He will join Northeastern in January 2022 with an appointment between the Khoury College of Computer Sciences and the College of Arts, Media and Design.
+Yevgeniy Dodis is a Fellow of the IACR (International Association for Cryptologic Research), and a Professor of Computer Science at New York University. Dr. Dodis received his summa cum laude Bachelors degree in Mathematics and Computer Science from New York University in 1996, and his PhD degree in Computer Science from MIT in 2000.  Dr. Dodis was a post-doc at IBM T.J.Watson Research center in 2000, and joined New York University in 2001. 
+
+Dr. Dodis' research is primarily in cryptography and network security. He worked in a variety of areas, including random number generation, secure messaging, leakage-resilient cryptography, cryptography under weak randomness, cryptography with biometrics and other noisy data, hash function and block cipher design, protocol composition and information-theoretic cryptography.
+
+In addition to being an IACR Fellow, Dr. Dodis is the recipient of 2021 and 2019 IACR Test-of-Time Awards for his work on Fuzzy Extractors and Verifiable Random Functions, National Science
+Foundation CAREER Award, Faculty Awards from Facebook, Google, IBM, Algorand and VMware, and Best Paper Award at 2005 Public Key Cryptography Conference. As an undergraduate student, he was also a winner of the US-Canada Putnam Mathematical Competition in 1995.
+
+Dr. Dodis has more than 150 scientific publications at various top venues, was the Program co-Chair for the 2022 CRYPTO and 2015 Theory of Cryptography Conference, the editor of Journal of Cryptology (2012-2019), has been on program committees of many international conferences (including FOCS, STOC, CRYPTO and Eurocrypt), and gave numerous invited lectures and courses at various venues.
 
 ## Publications
-* [RuleMatrix: Visualizing and Understanding Classifiers with Rules](https://arxiv.org/pdf/1807.06228.pdf). Yao Ming, Huamin Qu, Enrico Bertini. IEEE Transactions on Visualization and Computer Graphics (Proc. of VAST), 2018.
-* [A Workflow for Visual Diagnostics of Binary Classifiers using Instance-Level Explanations](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/599a5463e6f2e19ff0448aa1/1503286375213/vast17-visual-debugging.pdf). Josua Krause, Aritra Dasgupta, Jordan Swartz, Yindalon Aphinyanaphongs, Enrico Bertini. Proc. of IEEE Conference and Visual Analytics Science and Technology (VAST), 2017.
-* [Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/60fbd0d7f96f69368a0ef75e/1627115741371/quality-metrics-vis2011.pdf). E. Bertini, A. Tatu, and D. Keim. IEEE Transaction on Visualization and Computer Graphics (Proc. of InfoVis), 2011.
-* [The Persuasive Power of Data Visualization](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/5da3d77afe2f655194b13312/1571018619600/persuasion-tvcg2014.pdf). A. V. Pandey, O. Nov, A. Manivannan, M. Satterthwaite, and E. Bertini. IEEE Transactions on Visualization and Computer Graphics (Proc. of InfoVis), 2014.
-* [How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/5da3d7f5f30aa07809682abd/1571018743421/deceptive-chi2015.pdf). A. V. Pandey, K. Rall, M. Satterthwaite, O. Nov, E. Bertini. Proc. of ACM CHI Conference on Human Factors in Computing Systems (CHI), 2015.
+ - [Fuzzy Extractors: How to Generate Strong Keys from Biometrics
+and Other Noisy Data](https://cs.nyu.edu/~dodis/ps/fuzzy.pdf)
+ - [Seedless Fruit is the Sweetest:
+Random Number Generation, Revisited](https://cs.nyu.edu/~dodis/ps/seedless.pdf)
+ - [Non-Malleable Extractors and
+Symmetric Key Cryptography from Weak Secrets](https://cs.nyu.edu/~dodis/ps/it-aka.pdf)
+ - [The Double Ratchet: Security Notions, Proofs, and
+Modularization for the Signal Protocol](https://cs.nyu.edu/~dodis/ps/signal.pdf)
+ - [Leakage-Resilient Public-Key Cryptography
+in the Bounded-Retrieval Model](https://cs.nyu.edu/~dodis/ps/pkcbrm.pdf)
