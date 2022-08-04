@@ -8,8 +8,6 @@
 
 [Service Statement](SS_Dodis.pdf)
 
-[Diversity Statement](DS_Dodis.pdf)
-
 ## Bio
 
 Yevgeniy Dodis is a Fellow of the IACR (International Association for Cryptologic Research), and a Professor of Computer Science at New York University. Dr. Dodis received his summa cum laude Bachelors degree in Mathematics and Computer Science from New York University in 1996, and his PhD degree in Computer Science from MIT in 2000.  Dr. Dodis was a post-doc at IBM T.J.Watson Research center in 2000, and joined New York University in 2001. 
